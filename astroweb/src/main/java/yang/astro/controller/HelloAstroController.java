@@ -9,7 +9,6 @@ import java.util.Map;
 /**
  * Created by yang on 2016-05-11.
  */
-
 @Controller
 public class HelloAstroController
 {
